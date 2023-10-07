@@ -8,6 +8,8 @@ Business cards on paper are so 20th century. ``virtualcard`` is my simple virtua
 
 I came up with the idea because I like the compact format of business cards, but I don't want to be locked in to a specific design for too long. With ``virtualcard`` I can change the design whenever I want.
 
+Demo on my [website](https://daniel-schmidt.me).
+
 ## Technology
 
 - Bundler: ``vite``
