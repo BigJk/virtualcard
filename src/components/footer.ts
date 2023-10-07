@@ -11,7 +11,7 @@ export default (): m.Component<Card> => ({
 			}`,
 
 			[
-				m('div.ph3.pb3', [m('a.white', { href: 'https://github.com/BigJk', target: '_blank' }, m('i.ion.ion-logo-github'))]),
+				m('div.ph3.pb3', [m('a.white', { href: 'https://github.com/BigJk/virtualcard', target: '_blank' }, m('i.ion.ion-logo-github'))]),
 				m('div.ph3.pb3.f6.flex', { style: { gap: '1rem' } }, [m('div.code', 'drag to rotate')]),
 			],
 		);
