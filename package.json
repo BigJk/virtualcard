@@ -1,0 +1,24 @@
+{
+  "name": "virtualcard",
+  "version": "0.0.1",
+  "description": "Virtual business card",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "BigJk",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/animejs": "^3.1.8",
+    "@types/mithril": "^2.2.2",
+    "animejs": "^3.2.1",
+    "goober": "^2.1.13",
+    "ionicons": "^4.5.10-0",
+    "mithril": "^2.2.2",
+    "prettier": "^3.0.3",
+    "tachyons": "^4.12.0",
+    "vite": "^4.4.11",
+    "vite-tsconfig-paths": "^4.2.1"
+  }
+}
